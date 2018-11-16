@@ -2,7 +2,7 @@
 
 ![firm_3840_7d7727_big](readme_pliki/image001.jpg)
 
-**<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase">Analiza istniejących algorytmów anaityki obrazu - na podstawie algorytmów użytych w systemie Kamerdyner</span>**
+**<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase">Porównanie istniejących algorytmów analityki obrazu - na podstawie algorytmów użytych w systemie Kamerdyner</span>**
 
 **<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase"> </span>**
 
@@ -12,10 +12,9 @@
 
 <tr>
 
-<td width="319" style="width:239.25pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
+<td width="319" style="width:239.25pt;border:none;border-bottom:solid #BFBFBF 1.0pt;  padding:0cm 5.4pt 0cm 5.4pt">
 
-<span lang="EN-US" style="font-size:14.0pt;line-height:115%;color:#5B9BD5">Face recognition, human silhouette recognition and fall detection</span>
+<span lang="EN-US" style="font-size:14.0pt;line-height:115%;color:#5B9BD5;font-variant:bold">Face recognition, human silhouette recognition and fall detection</span>
 
 </td>
 
@@ -49,7 +48,7 @@
 **<span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;color:#5B9BD5;text-transform:uppercase;letter-spacing:.25pt">  
 </span>**
 
-<a name="_Toc301516488"></a><a name="_Toc488734921"><span class="MsoIntenseReference"><span style="font-size:18.0pt;line-height:115%;font-variant:normal !important;text-transform:uppercase">Informacje o dokumencie</span></span></a>
+<a name="_Toc301516488"></a><a name="_Toc488734921"><span class="MsoIntenseReference"><span style="font-size:24.0pt;line-height:115%;font-variant:bold!important;text-transform:uppercase">Informacje o dokumencie</span></span></a>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:489.05pt;margin-left:5.4pt;background:#CCCCCC;border-collapse:
  collapse;border:none">
@@ -347,7 +346,7 @@
 <span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif">  
 </span>
 
-<span class="MsoIntenseReference"><span style="font-size:18.0pt;line-height:115%;font-variant:normal !important;text-transform:uppercase">Spis treści</span></span>
+<span class="MsoIntenseReference"><span style="font-size:24.0pt;line-height:115%;font-variant:bold !important;text-transform:uppercase">Spis treści</span></span>
 
 <span class="MsoHyperlink">[1.<span style="color:windowtext;text-decoration:none"></span> <span style="background:white">OpenCV</span><span style="color:windowtext;display:none;text-decoration:none">..</span> <span style="color:windowtext;display:none;text-decoration:none">9</span>](#_Toc494697037)</span>
 
@@ -377,8 +376,7 @@
 
 <span class="MsoHyperlink">[2.8.<span style="color:windowtext;text-decoration:none"></span> Algorytmy nauczania maszynowego udostępniane przez EmguCV<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">15</span>](#_Toc494697050)</span>
 
-<span class="MsoHyperlink">[3.<span style="color:windowtext;text-decoration:none"></span> Metody śledzenia/wykrywania ruchu<span style="color:windowtext;display:none;
-text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">16</span>](#_Toc494697051)</span>
+<span class="MsoHyperlink">[3.<span style="color:windowtext;text-decoration:none"></span> Metody śledzenia/wykrywania ruchu<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">16</span>](#_Toc494697051)</span>
 
 <span class="MsoHyperlink">[3.1.<span style="color:windowtext;text-decoration:none"></span> Metody różnicowe<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">20</span>](#_Toc494697052)</span>
 
@@ -454,11 +452,9 @@ text-decoration:none">.</span> <span style="color:windowtext;display:none;text-d
 
 <span class="MsoHyperlink">[6.4.2.<span style="color:windowtext;text-decoration:none"></span> Podział ze względu na ilość kamer<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">88</span>](#_Toc494697088)</span>
 
-<span class="MsoHyperlink">[6.4.3.<span style="color:windowtext;text-decoration:none"></span> Podział ze względu na umiejscowienie kamer<span style="color:windowtext;display:none;
-text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">89</span>](#_Toc494697089)</span>
+<span class="MsoHyperlink">[6.4.3.<span style="color:windowtext;text-decoration:none"></span> Podział ze względu na umiejscowienie kamer<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">89</span>](#_Toc494697089)</span>
 
-<span class="MsoHyperlink">[6.4.4.<span style="color:windowtext;text-decoration:none"></span> Podział ze względu na rodzaj algorytmu<span style="color:windowtext;display:none;
-text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">89</span>](#_Toc494697090)</span>
+<span class="MsoHyperlink">[6.4.4.<span style="color:windowtext;text-decoration:none"></span> Podział ze względu na rodzaj algorytmu<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">89</span>](#_Toc494697090)</span>
 
 <span class="MsoHyperlink">[6.5.<span style="color:windowtext;text-decoration:none"></span> Analiza poszczególnych algorytmów detekcji upadku<span style="color:windowtext;
 display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">90</span>](#_Toc494697091)</span>
@@ -469,8 +465,7 @@ display:none;text-decoration:none">.</span> <span style="color:windowtext;displa
 
 <span class="MsoHyperlink">[6.5.3.<span style="color:windowtext;text-decoration:none"></span> Estymacja postawy za środka ciężkości sylwetki (centroidu) oraz VPS (Vertical Projection Histogram). <span style="color:windowtext;display:none;text-decoration:none"></span> <span style="color:windowtext;display:none;text-decoration:none">128</span>](#_Toc494697094)</span>
 
-<span class="MsoHyperlink">[6.5.4.<span style="color:windowtext;text-decoration:none"></span> Analiza aktywności i strefy pomieszczeń. <span style="color:windowtext;display:none;
-text-decoration:none"></span> <span style="color:windowtext;display:none;text-decoration:none">136</span>](#_Toc494697095)</span>
+<span class="MsoHyperlink">[6.5.4.<span style="color:windowtext;text-decoration:none"></span> Analiza aktywności i strefy pomieszczeń. <span style="color:windowtext;display:none;text-decoration:none"></span> <span style="color:windowtext;display:none;text-decoration:none">136</span>](#_Toc494697095)</span>
 
 <span class="MsoHyperlink">[6.5.5.<span style="color:windowtext;text-decoration:none"></span> Analiza ruchu po upadku<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">145</span>](#_Toc494697096)</span>
 
@@ -486,11 +481,9 @@ display:none;text-decoration:none">.</span> <span style="color:windowtext;displa
 <span class="MsoHyperlink">[6.5.10.<span style="color:windowtext;text-decoration:none"></span> Wnioskowanie rozmyte bazujące na upadku i czasu nieaktywności osoby. <span style="color:windowtext;
 display:none;text-decoration:none"></span> <span style="color:windowtext;display:none;text-decoration:none">178</span>](#_Toc494697101)</span>
 
-<span class="MsoHyperlink"><span lang="EN-US">[7.<span lang="PL" style="color:windowtext;text-decoration:none"></span> LBP<span lang="PL" style="color:windowtext;display:none;
-text-decoration:none">.</span> <span lang="PL" style="color:windowtext;display:none;text-decoration:none">183</span>](#_Toc494697102)</span></span>
+<span class="MsoHyperlink"><span lang="EN-US">[7.<span lang="PL" style="color:windowtext;text-decoration:none"></span> LBP<span lang="PL" style="color:windowtext;display:none;text-decoration:none">.</span> <span lang="PL" style="color:windowtext;display:none;text-decoration:none">183</span>](#_Toc494697102)</span></span>
 
-<span class="MsoHyperlink"><span lang="EN-US">[7.1.<span lang="PL" style="color:windowtext;text-decoration:none"></span> Wstęp<span lang="PL" style="color:windowtext;display:none;
-text-decoration:none">.</span> <span lang="PL" style="color:windowtext;display:none;text-decoration:none">183</span>](#_Toc494697103)</span></span>
+<span class="MsoHyperlink"><span lang="EN-US">[7.1.<span lang="PL" style="color:windowtext;text-decoration:none"></span> Wstęp<span lang="PL" style="color:windowtext;display:none;text-decoration:none">.</span> <span lang="PL" style="color:windowtext;display:none;text-decoration:none">183</span>](#_Toc494697103)</span></span>
 
 <span class="MsoHyperlink">[7.2.<span style="color:windowtext;text-decoration:none"></span> Działanie algorytmu<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">183</span>](#_Toc494697104)</span>
 
@@ -506,8 +499,7 @@ display:none;text-decoration:none">..</span> <span lang="PL" style="color:window
 <span class="MsoHyperlink">[7.7.<span style="color:windowtext;text-decoration:none"></span> Zależność efektywności wykrywania obrazu od kolejnych parametrów<span style="color:windowtext;
 display:none;text-decoration:none">..</span> <span style="color:windowtext;display:none;text-decoration:none">188</span>](#_Toc494697109)</span>
 
-<span class="MsoHyperlink"><span style="background:white">[7.8.<span style="color:windowtext;background:windowtext;
-text-decoration:none"></span> Analiza parametrów dla LBP<span style="color:windowtext;display:none;background:windowtext;text-decoration:none">.</span> <span style="color:windowtext;display:none;background:windowtext;text-decoration:none">198</span>](#_Toc494697110)</span></span>
+<span class="MsoHyperlink"><span style="background:white">[7.8.<span style="color:windowtext;background:windowtext;text-decoration:none"></span> Analiza parametrów dla LBP<span style="color:windowtext;display:none;background:windowtext;text-decoration:none">.</span> <span style="color:windowtext;display:none;background:windowtext;text-decoration:none">198</span>](#_Toc494697110)</span></span>
 
 <span class="MsoHyperlink">[8.<span style="color:windowtext;text-decoration:none"></span> Porównanie algorytmów LBP i Haar<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">202</span>](#_Toc494697111)</span>
 
@@ -535,8 +527,7 @@ display:none;text-decoration:none">.</span> <span style="color:windowtext;displa
 
 <span class="MsoHyperlink">[10.1.<span style="color:windowtext;text-decoration:none"></span> Wstęp<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">223</span>](#_Toc494697122)</span>
 
-<span class="MsoHyperlink">[10.2.<span style="color:windowtext;text-decoration:none"></span> Typy sieci neuronowych w rozpoznawaniu twarzy<span style="color:windowtext;display:none;
-text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">225</span>](#_Toc494697123)</span>
+<span class="MsoHyperlink">[10.2.<span style="color:windowtext;text-decoration:none"></span> Typy sieci neuronowych w rozpoznawaniu twarzy<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">225</span>](#_Toc494697123)</span>
 
 <span class="MsoHyperlink">[10.3.<span style="color:windowtext;text-decoration:none"></span> Zastosowanie<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">226</span>](#_Toc494697124)</span>
 
@@ -559,8 +550,7 @@ display:none;text-decoration:none">..</span> <span style="color:windowtext;displ
 <span class="MsoHyperlink">[12.3.<span style="color:windowtext;text-decoration:none"></span> Doświadczalny wpływ rozdzielczości na proces detekcji twarzy<span style="color:windowtext;
 display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">250</span>](#_Toc494697132)</span>
 
-<span class="MsoHyperlink">[12.4.<span style="color:windowtext;text-decoration:none"></span> Badanie wpływu źródła światła na detekcję twarzy<span style="color:windowtext;display:none;
-text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">251</span>](#_Toc494697133)</span>
+<span class="MsoHyperlink">[12.4.<span style="color:windowtext;text-decoration:none"></span> Badanie wpływu źródła światła na detekcję twarzy<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">251</span>](#_Toc494697133)</span>
 
 <span class="MsoHyperlink">[12.5.<span style="color:windowtext;text-decoration:none"></span> Rozpoznawanie twarzy<span style="color:windowtext;display:none;text-decoration:none">.</span> <span style="color:windowtext;display:none;text-decoration:none">256</span>](#_Toc494697134)</span>
 
@@ -1722,17 +1712,13 @@ Według autorów artykułu [8] sprawdzanie stosunku wysokość/szerokość prost
 Zamiast tego autorzy proponują model przedstawiony poniżej.
 
 Załóżmy, że mamy wydzieloną sylwetkę. Niech funkcja <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image063.png)</span> dla argumentu <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span> przyjmuje ilość pikseli należących do sylwetki w kolumnie <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span>. Jest to funkcja podobna do histogramu, ale zliczająca piksele tylko w kolumnach obrazu. Funkcja na rysunku niżej oznaczona jest jako x-projection. <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image065.png)</span>oznacza taki argument <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span>, dla którego funkcja <span style="font-size:11.0pt;line-height:107%;font-family:
+position:relative;top:10.0pt">![](readme_pliki/image063.png)</span> dla argumentu <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> przyjmuje ilość pikseli należących do sylwetki w kolumnie <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span>. Jest to funkcja podobna do histogramu, ale zliczająca piksele tylko w kolumnach obrazu. Funkcja na rysunku niżej oznaczona jest jako x-projection. <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image065.png)</span>oznacza taki argument <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span>, dla którego funkcja <span style="font-size:11.0pt;line-height:107%;font-family:
 &quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image063.png)</span> przyjmuje wartość maksymalną, czyli <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image066.png)</span>
 
 Wtedy <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image067.png)</span> (współrzędne <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image068.png)</span> prawych wierzchołków prostokąta ROI) i <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image067.png)</span> (współrzędne <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image068.png)</span> prawych wierzchołków prostokąta ROI) i <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image069.png)</span> (dolnych) wyznaczamy w sposób następujący:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image070.png)</span>
@@ -1745,8 +1731,7 @@ gdzie <span style="font-size:11.0pt;line-height:
 107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image073.png)</span> jest pewnym współczynnikiem (może być wyznaczony eksperymentalnie w zależności od warunków.
 
 W analogiczny sposób wyznaczamy <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image074.png)</span> (współrzędne <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image075.png)</span> górnych wierzchołków prostokąta ROI) i <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image074.png)</span> (współrzędne <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image075.png)</span> górnych wierzchołków prostokąta ROI) i <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image076.png)</span> (dolnych).
 
 Poniższy rysunek dobrze obrazuje ogólną koncepcję oraz wyznaczone parametry.
@@ -1760,19 +1745,16 @@ Opis rysunku 1:
 (a)<span style="font:7.0pt &quot;Times New Roman&quot;"></span> obraz binarny z wydzieloną sylwetką i funkcje x-projection (w formułach jako <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image078.png)</span> oraz y-projection,
 
-(b)<span style="font:7.0pt &quot;Times New Roman&quot;"></span> histogram osi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span> oraz wybór współrzędnych <span style="font-size:11.0pt;line-height:107%;font-family:
+(b)<span style="font:7.0pt &quot;Times New Roman&quot;"></span> histogram osi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> oraz wybór współrzędnych <span style="font-size:11.0pt;line-height:107%;font-family:
 &quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> wierchołków prostokąta ROI,
 
 (c)<span style="font:7.0pt &quot;Times New Roman&quot;"></span> ilustracja prostokąta ROI.
 
-Stosunek wysokość/szerokość <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image079.png)</span> można wyliczyć w następujący sposób:
+Stosunek wysokość/szerokość <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image079.png)</span> można wyliczyć w następujący sposób:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image080.png)</span>
 
-Poniższy rysunek obrazuje rozkład parametru <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image079.png)</span> w zależności od postaw:
+Poniższy rysunek obrazuje rozkład parametru <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image079.png)</span> w zależności od postaw:
 
 <span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>stojącej lub osoby chodzącej,
 
@@ -1797,9 +1779,7 @@ Przykład detekcji upadku przy kamerze umiejscowionej 2 metry nad podłogą, źr
 Autorzy pracy [11] proponują zbudowanie elipsy, w którą będzie wpisana sylwetka człowieka.
 
 Elipsę definiuje się przy pomocy środka <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image083.png)</span>, orientacji <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image084.png)</span>, długości wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image085.png)</span> oraz małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image086.png)</span>.
+position:relative;top:10.0pt">![](readme_pliki/image083.png)</span>, orientacji <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image084.png)</span>, długości wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image085.png)</span> oraz małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image086.png)</span>.
 
 Dla obrazu traktowanego jako ciągła funkcja z przestrzeni dwuwymiarowej do przestrzeni jednowymiarowej (obraz w skali szarości) wspomniane momenty możemy zdefiniować następująco:
 
@@ -1819,13 +1799,11 @@ Moment centralny oblicza się analizy sylwetki za pomocą współrzędnych środ
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image092.png)</span>
 
-Kąt między główną osią elipsy sylwetki, a osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span> obrazu liczymy w sposób następujący:
+Kąt między główną osią elipsy sylwetki, a osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> obrazu liczymy w sposób następujący:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image093.png)</span>
 
-Aby obliczyć długość wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image085.png)</span> oraz długość małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:
+Aby obliczyć długość wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image085.png)</span> oraz długość małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:
 &quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image086.png)</span> elipsy, należy obliczyć najmniejszy moment bezwładności <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image094.png)</span> oraz największy moment bezwładności <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image095.png)</span>. Można to zrobić przy pomocy wartości własnych macierzy kowariancji:
@@ -1838,24 +1816,21 @@ Wartości własne powyższej macierzy dane są wzorami:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image098.png)</span>
 
-Następnie długość wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image085.png)</span> i długość małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:
+Następnie długość wielkiej półosi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image085.png)</span> i długość małej półosi <span style="font-size:11.0pt;line-height:107%;font-family:
 &quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image086.png)</span> elipsy liczy się:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image099.png)</span>
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image100.png)</span>
 
-Obliczamy parametr <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image101.png)</span> jako stosunek wielkiej półosi do małej półosi elipsy:
+Obliczamy parametr <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image101.png)</span> jako stosunek wielkiej półosi do małej półosi elipsy:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image102.png)</span>
 
 Tak wyznaczona elipsa może służyć do analizy pojedynczego kadru z obrazu wideo lub analizy zachowania osoby na przestrzeni fragmentu wideo. Wtedy brana jest pod uwagę zmiana parametrów elipsy w czasie.
 
 Jeżeli chodzi o rozpoznanie sylwetki, metoda wyznaczania elipsy jest w stanie klasyfikować klatki wideo jako momenty upadku, kiedy kąt <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image084.png)</span> między wielką półosią elipsy, a osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span> jest zbliżony do <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image084.png)</span> między wielką półosią elipsy, a osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> jest zbliżony do <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image103.png)</span> stopni. Metoda polegająca na prostokącie w tym przypadku okazuje się nieskuteczna.
 
 Poniższy rysunek ilustruje porównanie metody prostokąta i elipsy w kontekście wykrywania momentu upadku.
@@ -1864,8 +1839,7 @@ Poniższy rysunek ilustruje porównanie metody prostokąta i elipsy w kontekści
 
 Dopasowanie prostokąta ROI i elipsy ROI w chwili upadku osoby, źródło: [11].
 
-Metoda elipsy jednak najlepiej sprawdza się przy analizie fragmentu wideo, na którym możemy obliczyć odchylenie standardowe stosunku <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span> oraz kąta <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+Metoda elipsy jednak najlepiej sprawdza się przy analizie fragmentu wideo, na którym możemy obliczyć odchylenie standardowe stosunku <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> oraz kąta <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image084.png)</span>. Wysokie odchylenia standardowe wskazują na gwałtowne ruchy, oznaczające często upadek. Metody wykorzystywania zmian elipsy ROI w czasie do detekcji upadku zostaną zostały opisane w [10], [11].
 
 ![](readme_pliki/image106.png)
@@ -1873,16 +1847,14 @@ position:relative;top:10.0pt">![](readme_pliki/image084.png)</span>. Wysokie odc
 Elipsy opisujące sylwetkę człowieka  w różnych pozycjach i podczas różnych akcji, źródło: [10].
 
 Poniższa ilustracja przedstawia zmiany w czasie wariancji parametrów <span style="font-size:11.0pt;line-height:107%;font-family:
-&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image084.png)</span>.
+&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image084.png)</span>.
 
 Parametr <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image107.png)</span> reprezentuje generalną zmianę pozycji wydzielonej sylwetki (czyli ruch).
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image108.png)</span>
 
-Gdzie <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image109.png)</span> to obraz zmian (motion history image). Współczynnik jest następnie skalowany, 0% oznacza brak ruchu, a 100% pełny ruch. Blob oznacza wydzieloną sylwetkę.
+Gdzie <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image109.png)</span> to obraz zmian (motion history image). Współczynnik jest następnie skalowany, 0% oznacza brak ruchu, a 100% pełny ruch. Blob oznacza wydzieloną sylwetkę.
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image110.png)</span>
 
@@ -1920,21 +1892,17 @@ Wyniki badań są obiecujące. Skuteczność wykrywania to 88%, przy niskiej ilo
 
 Autorzy artykułu [1] proponują metodę polegającą na wyznaczaniu głównej osi sylwetki oraz stosunku wariancji w osiach poziomej i pionowej. Warto zaznaczyć, że system który prezentują polega jednak na dwóch kamerach w pomieszczeniu.
 
-Najpierw należy wyznaczyć macierz kowariancji <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image112.png)</span>:
+Najpierw należy wyznaczyć macierz kowariancji <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image112.png)</span>:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image113.png)</span>
 
 gdzie <span style="font-size:11.0pt;line-height:
 107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image114.png)</span> oznacza średnią średnią, a <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image115.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image116.png)</span> są rozkładami prawdopodobieństwa pikseli sylwetki zmiennych w osi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image064.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image115.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image116.png)</span> są rozkładami prawdopodobieństwa pikseli sylwetki zmiennych w osi <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image064.png)</span> oraz <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image117.png)</span>. <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image118.png)</span> oznacza wartość oczekiwaną.
 
-Stosunek wariancji w osi poziomej pionowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span> opisujemy wzorem:
+Stosunek wariancji w osi poziomej pionowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> opisujemy wzorem:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image119.png)</span>
 
@@ -1942,15 +1910,13 @@ Kąt głównej osi może być znaleziony za pomocą rozkładu macierzy kowarianc
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image120.png)</span>
 
-Kąt pomiędzy osią poziomą kadru, a główną osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image121.png)</span> oblicza się w sposób następujący:
+Kąt pomiędzy osią poziomą kadru, a główną osią <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image121.png)</span> oblicza się w sposób następujący:
 
 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif">![](readme_pliki/image122.png)</span>
 
 Proces jest podobny do analizy głównych składowych (PCA- principal component analysis). Główna oś jest zdeterminowana przez składową o największej wariancji.
 
-Dla sylwetki osoby stojącej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image123.png)</span>
+Dla sylwetki osoby stojącej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image123.png)</span>
 
 Jedna kamera może mierzyć kąt głównej osi tylko w swojej płaszczyźnie. Zatem przynajmniej dwie prawie prostopadłe kamery potrzebne są do mierzenia orientacji głównej osi w dwóch ortogonalnych płaszczyznach.
 
@@ -2030,9 +1996,7 @@ Lewy obrazek- maska sylwetki po wydzieleniu.
 
 Prawy obrazek- rezultat kwalifikacji maski jako dwóch osobnych obiektów (zielone linie obrazują główne osie obu obiektów).
 
-Autorzy pracy przeprowadzili analizę zależności kąta głównej osi sylwetki w stosunku do osi poziomej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image142.png)</span>, oraz stosunku wariancji w osi poziomej do osi pionowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span> w zależności od wykonywanej czynności. Wyniki prezentowane są poniżej.
+Autorzy pracy przeprowadzili analizę zależności kąta głównej osi sylwetki w stosunku do osi poziomej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image142.png)</span>, oraz stosunku wariancji w osi poziomej do osi pionowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> w zależności od wykonywanej czynności. Wyniki prezentowane są poniżej.
 
 ![praca1-wykres](readme_pliki/image143.png)
 
@@ -2047,8 +2011,7 @@ Motywacją badania prędkości głowy jest fakt, że ludzie rzadko wykonują ni�
 
 Dodatkowo warto zwrócić uwagę na fakt, że zazwyczaj głowa jest widoczna na obrazie z kamery. Rozpoznawanie sylwetki może zawodzić, kiedy jest ona częściowo zasłonięta, a zdarza się to często (niepełny kadr, meble, itp.). Jednak na kamerach umieszczonych w rogu pomieszczenia głowa jest widoczna cały czas w całości, co czyni ją obiektem odpornym na różne zakłócenia.
 
-Autorzy pracy [1] traktują śledzenie jako dodatkowa weryfikacja działania głównego algorytmu. Czasami zdarza się, że kamera rejestruje gwałtowne zmiany kąta głównej osi sylwetki. Na przykład osoba stojąca za stołem (czyli widoczna jedynie od pasa w górę) może wyciągnąć ręce. Powoduje to bardzo szybką zmianą kąta głównej osi sylwetki <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image142.png)</span> nawet o 90 stopni. Zazwyczaj podczas takich czynności pozycja głowy nie zmienia się znacznie. Warto przypomnieć, że autorzy pracy [1] w swoim systemie używają dwóch kamer, co oznacza że zazwyczaj głowa jest rozpoznana na przynajmniej jednej z nich, ponieważ twarz jest przynajmniej częściowo zwrócona do któreś z kamer. Zazwyczaj zatem głowa jest śledzona przez cały czas. Jeżeli system detekcji zakwalifikuje zachowanie osoby jako upadek, ale równocześnie na co najmniej jednej z kamer widać, że pozycja głowy nie zmieniła się, klasyfikacja jako upadek jest odrzucana. Ma to znaczny wpływ na zmniejszenie ilości błędnych klasyfikacji upadku (False Positive).
+Autorzy pracy [1] traktują śledzenie jako dodatkowa weryfikacja działania głównego algorytmu. Czasami zdarza się, że kamera rejestruje gwałtowne zmiany kąta głównej osi sylwetki. Na przykład osoba stojąca za stołem (czyli widoczna jedynie od pasa w górę) może wyciągnąć ręce. Powoduje to bardzo szybką zmianą kąta głównej osi sylwetki <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image142.png)</span> nawet o 90 stopni. Zazwyczaj podczas takich czynności pozycja głowy nie zmienia się znacznie. Warto przypomnieć, że autorzy pracy [1] w swoim systemie używają dwóch kamer, co oznacza że zazwyczaj głowa jest rozpoznana na przynajmniej jednej z nich, ponieważ twarz jest przynajmniej częściowo zwrócona do któreś z kamer. Zazwyczaj zatem głowa jest śledzona przez cały czas. Jeżeli system detekcji zakwalifikuje zachowanie osoby jako upadek, ale równocześnie na co najmniej jednej z kamer widać, że pozycja głowy nie zmieniła się, klasyfikacja jako upadek jest odrzucana. Ma to znaczny wpływ na zmniejszenie ilości błędnych klasyfikacji upadku (False Positive).
 
 W celu znalezienia głowy na scenie, autorzy pracy [1] korzystają z modelu CrCb opartego na kolorze skóry, opisanego w [9]. Model uczony jest na fotografiach zawierających różne części ciała z odsłoniętą skórą. W ten sposób uzyskany jest model gaussowski oparty na kolorze skóry. Piksele z wartościach <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image145.png)</span>, <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
@@ -2061,8 +2024,7 @@ position:relative;top:10.0pt">![](readme_pliki/image146.png)</span> jest klasyf
 <span style="line-height:
 150%">gdzie</span> <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:11.5pt">![](readme_pliki/image148.png)</span><span style="line-height:150%">,</span> <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:11.5pt">![](readme_pliki/image149.png)</span><span style="line-height:150%">to wartości średnie, oraz macierz kowariancji</span> <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image150.png)</span><span style="line-height:150%"> z modelu gaussowskiego.</span>
+position:relative;top:11.5pt">![](readme_pliki/image149.png)</span><span style="line-height:150%">to wartości średnie, oraz macierz kowariancji</span> <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image150.png)</span><span style="line-height:150%"> z modelu gaussowskiego.</span>
 
 <span style="line-height:
 150%">Próg</span> <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
@@ -2233,8 +2195,7 @@ Czas t. Pozycja głowy została zaktualizowana.
 Badania upadków przy pomocy czujników ruchu pokazują, że upadki mają inną charakterystykę prędkości od codziennych czynności, więc klasyfikator oparty o charakterystykę prędkości powinien dobrze sprawdzać się w celu wykrycia upadków.
 
 Autorzy proponują posługiwanie się prędkością pionową (vertical velocity) <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image181.png)</span>, oraz prędkością poziomą <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image182.png)</span> (horizontal velocity). Za pomocą trajektorii elipsy w 3D można obliczyć te prędkości.
+position:relative;top:10.0pt">![](readme_pliki/image181.png)</span>, oraz prędkością poziomą <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image182.png)</span> (horizontal velocity). Za pomocą trajektorii elipsy w 3D można obliczyć te prędkości.
 
 ![](readme_pliki/image183.jpg)
 
@@ -2266,10 +2227,8 @@ Jak widać wypadek mocno odróżnia się od reszty czynności. Przy pomocy funkc
 Ilustracja zmiany prędkości pionowej i poziomej podczas różnych czynności, źródło: [16].
 
 Autorzy artykułu przetestowali swój algorytm na 19 filmach prezentujących codzienne czynności oraz symulowane upadki. 9 filmów przedstawiało różne upadki (do przodu, do tyłu, upadek w trakcie siadania, stracenie równowagi). 10 filmów przedstawiało codzienne czynności takie jak siadanie, wstawanie, kucanie. Rozdzielczość filmików to 640x480 pikseli i częstotliwość to 30 klatek na sekundę.  Pozycja głowy jest początkowo inicjalizowana ręcznie na pierwszej klatce, a następnie śledzona przy pomocy filtra cząsteczkowego opisanego powyżej. Trajektoria głowy 3D obliczana jest dla każdego filmu, dzięki czemu można było przeanalizować prędkość poziomą oraz pionową. Czynność upadku jest wykrywana, jeżeli w tym samym czasie pojawia się szczyt funkcji prędkości zarówno poziomej i pionowej i jeżeli ujemne wychylenie prędkości pionowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image184.png)</span> wynosi mniej niż -1,5 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image186.png)</span>, a wychylenie prędkości poziomej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image181.png)</span> wynosi ponad 2 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image186.png)</span>. Wyniki są następujące
+position:relative;top:10.0pt">![](readme_pliki/image184.png)</span> wynosi mniej niż -1,5 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image186.png)</span>, a wychylenie prędkości poziomej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+position:relative;top:10.0pt">![](readme_pliki/image181.png)</span> wynosi ponad 2 <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image186.png)</span>. Wyniki są następujące
 
 <span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span>True Positive (upadek wystąpił i został poprawnie zaklasyfikowany): 6
 
@@ -2504,13 +2463,11 @@ System polegjący na Motion History Image by określić czy osoba pozostaje w be
 
 ### <a name="_Toc494548798"></a><a name="_Toc494697097">6.5.6.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> Ukryte modele markowa korzystające z wideo i audio.</a>
 
-W pracy [2] opisano system detekcji upadku polegającej zarówno na analizie obrazu jak i audio. Autorzy skupili się na analizie stosunku wysokość/szerokość prostokąta ROI <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span>. Doszli do wniosku, że analiza transformaty falkowej (wavelet transform) parametru <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+W pracy [2] opisano system detekcji upadku polegającej zarówno na analizie obrazu jak i audio. Autorzy skupili się na analizie stosunku wysokość/szerokość prostokąta ROI <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span>. Doszli do wniosku, że analiza transformaty falkowej (wavelet transform) parametru <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> jest bardziej odpowiednia do detekcji upadki, niż standardowa analiza zmiany <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> w czasie, ponieważ transformata falkowa igoruje punkty stacjonarne, a dobrze wychwytuje nagłe zmiany sygnału. Proponują wytrenowanie ukrytego modelu markowa (Hidden Markov Model- HMM), który będzie określał czy nastąpił upadek, czy nie. Dodatkowo użyty został sygnał audio z kamerki jako parametr wspomagający odróżnienie czynności chodzenia od upadku.
 
-Zatem w odróżnieniu do poprzednich prac, analizie podlegają współczynniki transormaty falkowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span>.
+Zatem w odróżnieniu do poprzednich prac, analizie podlegają współczynniki transormaty falkowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span>.
 
 Poniższy wykres (górny) przedstawia zależność stosunku wysokość/szerokość prostokąta ROI <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image105.png)</span> w zależności od czasu dla osoby chodzącej. Wykres tuż pod nim przedstawia zmiany współczynników transformaty falkowej <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
@@ -2555,11 +2512,9 @@ Trójstanowe modele Markowa dla chodzenia (a) oraz upadku (b), źródło: [2].
 
 Dla osoby chodzącej, ponieważ ruch jest prawie-okresowy, oczekujemy podobnych prawdopodobieństw przejść między stanami. Zatem współczynniki <span style="font-size:11.0pt;line-height:107%;font-family:
 &quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image085.png)</span> powinny być podobne do siebie. Jednakże, jeżeli osoba przewraca się, sygnał falki przyjmuje wartości bliskie zeru. Zatem oczekujemy wyższego prawdopodobieństwa <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
-position:relative;top:10.0pt">![](readme_pliki/image235.png)</span>, niż innych wartości <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image086.png)</span> w modelu upadku, co odpowiada większemu prawdopodobieństwu stanu S1\. Stan S2 odpowiada za histertezę, a zatem nie pozwala na nagłe przejścia ze stanu S1, do stanu S2 i na odwrót.
+position:relative;top:10.0pt">![](readme_pliki/image235.png)</span>, niż innych wartości <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image086.png)</span> w modelu upadku, co odpowiada większemu prawdopodobieństwu stanu S1\. Stan S2 odpowiada za histertezę, a zatem nie pozwala na nagłe przejścia ze stanu S1, do stanu S2 i na odwrót.
 
-Przedstawiony model, czyli analiza samego <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image105.png)</span>, nie spełniał oczekiwań, gdyż nie odróżniał upadków od czynności siadania i zostawania w tej pozycji przez chwilę czasu. W związku z tym autorzy doszli do wniosku, że warto analizować sygnał audio w celu odróżnienia tych dwóch czynności.
+Przedstawiony model, czyli analiza samego <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image105.png)</span>, nie spełniał oczekiwań, gdyż nie odróżniał upadków od czynności siadania i zostawania w tej pozycji przez chwilę czasu. W związku z tym autorzy doszli do wniosku, że warto analizować sygnał audio w celu odróżnienia tych dwóch czynności.
 
 ![](readme_pliki/image236.jpg)
 
@@ -2569,8 +2524,7 @@ Sygnał audio dla upadku (a), oraz czynności następujących po sobie: mówieni
 
 Wykres sygnału falki dla powyższych czynności, źródło: [2].
 
-Dla każdego okna <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;
-top:10.0pt">![](readme_pliki/image238.png)</span> liczymy wariancje sygnału audio <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
+Dla każdego okna <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;position:relative;top:10.0pt">![](readme_pliki/image238.png)</span> liczymy wariancje sygnału audio <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image239.png)</span> oraz przejść przez zero <span style="font-size:11.0pt;line-height:107%;font-family:&quot;Calibri&quot;,sans-serif;
 position:relative;top:10.0pt">![](readme_pliki/image240.png)</span>
 
