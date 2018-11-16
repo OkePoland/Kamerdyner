@@ -2,9 +2,7 @@
 
 ![firm_3840_7d7727_big](readme_pliki/image001.jpg)
 
-**<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase">Przeprowadzenie prac B+R nad stworzeniem inteligentnej przestrzeni otaczającej ludzi za pośrednictwem zaawansowanego systemu typu smart home – Kamerdyner</span>**
-
-**<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase">Etap 1</span>**
+**<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase">Analiza istniejących algorytmów anaityki obrazu - na podstawie algorytmów użytych w systemie Kamerdyner</span>**
 
 **<span style="font-size:16.0pt;line-height:115%;text-transform:uppercase"> </span>**
 
@@ -17,7 +15,7 @@
 <td width="319" style="width:239.25pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt">
 
-<span lang="EN-US" style="font-size:14.0pt;line-height:115%;color:#5B9BD5">Face recognition, human silhouette recognition, voice recognition and fall detection</span>
+<span lang="EN-US" style="font-size:14.0pt;line-height:115%;color:#5B9BD5">Face recognition, human silhouette recognition and fall detection</span>
 
 </td>
 
@@ -48,8 +46,7 @@
 
 </table>
 
-**<span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;
-color:#5B9BD5;text-transform:uppercase;letter-spacing:.25pt">  
+**<span style="font-size:11.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;color:#5B9BD5;text-transform:uppercase;letter-spacing:.25pt">  
 </span>**
 
 <a name="_Toc301516488"></a><a name="_Toc488734921"><span class="MsoIntenseReference"><span style="font-size:18.0pt;line-height:115%;font-variant:normal !important;text-transform:uppercase">Informacje o dokumencie</span></span></a>
@@ -92,28 +89,6 @@ color:#5B9BD5;text-transform:uppercase;letter-spacing:.25pt">
 **<span lang="EN-US" style="line-height:115%">2017-10-01</span>**
 
 </td>
-
-</tr>
-
-<tr style="height:1.0cm">
-
-<td width="198" style="width:148.85pt;border-top:none;border-left:solid #BFBFBF 1.0pt;
-  border-bottom:solid #BFBFBF 1.0pt;border-right:none;background:#F3F3F3;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm">
-
-**<span lang="EN-US" style="line-height:115%;color:#8496B0">SharePoint</span>**
-
-</td>
-
-<td width="454" style="width:12.0cm;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm">
-
-**<span lang="EN-US" style="line-height:115%">Dokumenty > Chamberlain > Real-time methods for recognizing and tracking human silhouettes > Face silhouette recognition fall detection.docx</span>**
-
-</td>
-
-</tr>
 
 </tbody>
 
@@ -2116,8 +2091,7 @@ Istnieją także próby integracji algorytmu śledzenia głowy wraz z estymacją
 
 Analiza prędkości głowy wraz ze stosunkiem prostokąta ROI w kontekście zdarzeń upadków i nie-upadków, źródło: [6].
 
-<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;
-color:#333333;background:white">  
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;color:#333333;background:white">  
 </span>
 
 Na wykresie łatwo zauważyć, że wiele upadków ma charakterystykę zbliżoną do nie-upadków. Autorzy pracy [6] po analizie doszli do wniosku, że 90% takich przypadków ma następujące przyczyny:
@@ -2441,8 +2415,7 @@ Reprezentacja człowieka jako elipsy, źródło: [14].
 
 Wewnętrzna elipsa wyznaczona jest na podstawie najmocniejszych próbek (cząstek), zewnętrzna to pierścień na podstawie którego elipsa jest oceniana, źródło: [14].
 
-<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;
-color:#333333;background:white">  
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;color:#333333;background:white">  
 </span>
 
 Podczas śledzenia czynności osoby bierze się pod uwagę jego prędkość i wygładzone trajektorie za pomocą filtra średniej ruchomej (średnia krocząca, moving average filter). Trajektoria brana jest ze środka elipsy.
@@ -2503,8 +2476,7 @@ Poniższe ilustracje prezentują trajektorie w oznakowanych przez algorytm stref
 
 ![](readme_pliki/image219.jpg)![](readme_pliki/image220.jpg)
 
-<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;
-color:#333333;background:white">  
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;color:#333333;background:white">  
 </span>
 
 Zaprezentowana metoda wydaje się dobrym wsparciem dla innych metod detekcji upadku. Autorzy zastosowali dość nietypowe umieszczenie kamery (w centrum pokoju) i o dość nietypowych parametrach (bardzo szerokokątnej).  Trudno domyślić się jak metoda sprawdzać w kontekście kamery w rogu pokoju. Na pewno jednak automatyczne oznaczanie stref braku aktywności może okazać się przydatne, szczególnie że kamera nie wymaga kalibracji (natomiast minusem jest konieczność uczenia modelu dla każdego pomieszczenia i umiejscowienia kamery).
@@ -2814,8 +2786,7 @@ Maksymalny F-score fla różnych cech, (a)-kamery 1,3,5,7; (b)- kamery 2,4,6,8, 
 
 Wyniki są wysokie, ale trudno oszacować jak zachowywałby się algorytm dla pojedynczej kamery. Należy również wziąć pod uwagę że kamery nagrywają w 120 FPS, co być może jest bardzo istotne w wyznaczaniu punktów STIP. Nagrania są dobrej jakości (brak przysłoniętych sylwetek). Mimo tego system jest jednym z najnowocześniejszych i ma wysoką skuteczność.
 
-<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;
-color:#333333;background:white">  
+<span style="font-size:12.0pt;line-height:150%;font-family:&quot;Calibri&quot;,sans-serif;color:#333333;background:white">  
 </span>
 
 ### <a name="_Toc494548801"></a><a name="_Toc494697100"><span lang="EN-US">6.5.9.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span><span lang="EN-US">Pictorial Structures for Articulated Pose Estimation</span></a>
@@ -3570,9 +3541,7 @@ Testy odbyły się w środowisku Matlab z przygotowanym środowiskiem graficznym
 
 ## <a name="_Toc494697130">12.1.<span style="font:7.0pt &quot;Times New Roman&quot;"></span> Biometryczne standardy rozpoznawania twarzy odnoszące się do CCTV</a>
 
-Istnieje kilka norm opisu głównych zasad, kierunków i cech dotyczących wejściowych danych biometrycznych, m. in. obrazów twarzy. Należą do nich między innymi: _<span style="font-size:9.5pt;line-height:150%;font-family:&quot;YxyxvfTimesTen-Roman&quot;,serif;color:#131413">ISO/IEC 19794 5</span>_<span style="font-size:9.5pt;line-height:150%;font-family:&quot;YxyxvfTimesTen-Roman&quot;,serif;
-color:#131413">, _ANSI/INCITS 385 2004_ oraz europejska norma</span> _<span style="font-size:9.5pt;line-height:150%;font-family:&quot;CdfxwfTimesTen-Italic&quot;,serif;
-color:#131413">EN 50132-7: CCTV</span>_<span style="font-size:9.5pt;line-height:150%;font-family:&quot;CdfxwfTimesTen-Italic&quot;,serif;color:#131413">.</span>
+Istnieje kilka norm opisu głównych zasad, kierunków i cech dotyczących wejściowych danych biometrycznych, m. in. obrazów twarzy. Należą do nich między innymi: _<span style="font-size:9.5pt;line-height:150%;font-family:&quot;YxyxvfTimesTen-Roman&quot;,serif;color:#131413">ISO/IEC 19794 5</span>_<span style="font-size:9.5pt;line-height:150%;font-family:&quot;YxyxvfTimesTen-Roman&quot;,serif;color:#131413">, _ANSI/INCITS 385 2004_ oraz europejska norma</span> _<span style="font-size:9.5pt;line-height:150%;font-family:&quot;CdfxwfTimesTen-Italic&quot;,serif;color:#131413">EN 50132-7: CCTV</span>_<span style="font-size:9.5pt;line-height:150%;font-family:&quot;CdfxwfTimesTen-Italic&quot;,serif;color:#131413">.</span>
 
 ![](readme_pliki/image356.png)
 
@@ -3802,13 +3771,11 @@ W eksperymencie zostały wykorzystane widoki czołowe. Oświetlenie, ekspresja i
 
 <span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span><span class="notranslate"><span style="line-height:150%;color:#222222">Badane okno trzeba podzielić na komórki (np. 16x16 pikseli).</span></span>
 
-<span class="notranslate"><span style="line-height:150%;font-family:Symbol;color:#222222">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span class="notranslate"><span style="line-height:150%;
-color:#222222">Dla każdego piksela w komórce porównaj piksel z każdym z 8 sąsiadów.</span></span>
+<span class="notranslate"><span style="line-height:150%;font-family:Symbol;color:#222222">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span class="notranslate"><span style="line-height:150%;color:#222222">Dla każdego piksela w komórce porównaj piksel z każdym z 8 sąsiadów.</span></span>
 
 <span style="font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span><span class="notranslate"><span style="line-height:150%;color:#222222">Postępuj zgodnie z pikselami wzdłuż kręgu, tj. Zgodnie z ruchem wskazówek zegara lub przeciwnie do ruchu wskazówek zegara</span></span>
 
-<span class="notranslate"><span style="line-height:150%;font-family:Symbol;color:#222222">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span class="notranslate"><span style="line-height:150%;
-color:#222222">Jeśli wartość piksela środkowego jest większa od wartości sąsiada, wpisz "0".</span></span> <span class="notranslate"><span style="line-height:150%;color:#222222">W przeciwnym razie napisz "1".</span></span> <span class="notranslate"><span style="line-height:150%;color:#222222">Dostajemy 8-cyfrową liczbę binarną</span></span>
+<span class="notranslate"><span style="line-height:150%;font-family:Symbol;color:#222222">·<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span class="notranslate"><span style="line-height:150%;color:#222222">Jeśli wartość piksela środkowego jest większa od wartości sąsiada, wpisz "0".</span></span> <span class="notranslate"><span style="line-height:150%;color:#222222">W przeciwnym razie napisz "1".</span></span> <span class="notranslate"><span style="line-height:150%;color:#222222">Dostajemy 8-cyfrową liczbę binarną</span></span>
 
 <span class="notranslate"><span style="font-size:12.0pt;line-height:150%;color:#222222"> </span></span>
 
